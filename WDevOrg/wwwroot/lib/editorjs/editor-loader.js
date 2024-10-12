@@ -1,4 +1,4 @@
-import EditorJS from '@editorjs/editorjs';
+import EditorJS from './editorjs.mjs';
 
 const initalData = document.getElementById('editor-data').attributes['value'];
 
